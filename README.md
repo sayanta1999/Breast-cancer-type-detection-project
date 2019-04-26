@@ -2,3 +2,5 @@
 Creating a Breast Cancer detector model using machine learning
 
 Got an accuracy of 98.83% using Random Forest Classifier
+
+Attached the screenshot of accuracy,confusion matrix and graph.
